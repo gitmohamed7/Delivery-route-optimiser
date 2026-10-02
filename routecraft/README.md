@@ -1,6 +1,9 @@
 # RouteCraft
 
 An interactive delivery-route algorithm lab with a Python HTTP API and a canvas visualisation.
+## Demo
+
+![Delivery route optimiser showing an optimised route](image.png)
 
 ## Run locally
 
